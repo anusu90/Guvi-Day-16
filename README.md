@@ -1,3 +1,5 @@
 # GUVI
 
+## KINDLY SEE 'SCRIPT2.JS' FOR JS CODE AND IGNORE SCRIPT.JS
+
 ![IMG](static/img.png)
